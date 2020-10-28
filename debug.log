@@ -1,0 +1,3 @@
+[1027/151752.522:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1027/151752.541:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Jesse\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\dd2da429-25fc-410c-9665-dca816ebf648: The system cannot find the path specified. (0x3)
+[1027/190712.154:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
